@@ -19,7 +19,7 @@ html, body {
   height: 100vh;
   align-items: center;
     text-decoration: none;
-  background-color: #ffff33;  
+  background-color: rgb(255, 255, 255);
 }
 
 .joinInnerContainer {
@@ -36,14 +36,14 @@ html, body {
   color: red;
   font-size: 2.5em;
   padding-bottom: 10px;
-  border-bottom: 2px solid #ffff33;;
+  border-bottom: 2px solid white;
 }
 
 .button {
     color: #fff !important;
     text-transform: uppercase;
     text-decoration: none;
-    background: #ffff33;;
+    background: rgb(243, 255, 80);
     padding: 20px;
     border-radius: 5px;
     display: inline-block;
